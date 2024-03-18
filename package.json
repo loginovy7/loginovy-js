@@ -1,0 +1,29 @@
+{
+  "name": "loginovy-js",
+  "version": "1.0.0",
+  "description": "Loginovy-js is a Node.js module providing a collection of clever utility functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loginovy7/loginovy-js"
+  },
+  "dependencies": {
+	  "lenovpaha": "1.0.0",
+"ruththompson": "1.0.0",
+"glushkivan-module": "1.0.0",
+"solodop": "1.0.0",
+"string-filatovmark": "1.0.0",
+"susanmartin-config": "1.0.0",
+"limonovp-mode": "1.0.0",
+    "axios": "^0.24.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loginovy7/loginovy-js/issues"
+  },
+  "homepage": "https://github.com/loginovy7/loginovy-js#readme"
+}
